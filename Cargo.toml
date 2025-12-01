@@ -1,6 +1,11 @@
 [package]
 name = "ansie"
+description = "do ANSI escape"
 version = "0.1.0"
 edition = "2024"
+authors = ["yy-tromb"]
+repository = "https://github.com/yy-tromb/ansie-rs"
+license-file = "LICENSE"
+readme = "README.md"
 
 [dependencies]
