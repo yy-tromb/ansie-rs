@@ -1,5 +1,5 @@
 # ansie-rs
-do ANSI escape
+print given ANSI escape code with ANSI escape sequance 
 
 ## Usage
 ```
