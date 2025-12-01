@@ -5,7 +5,7 @@ do ANSI escape
 ```
 $ ansie <ANSI ESCAPE CODE 1> <ANSI ESCAPE CODE 2> ...
 ```
-This prints `\x1b<ANSI ESCAPE CODE 1>m \x1b<ANSI ESCAPE CODE 2>m ...`
+This prints `\x1b<ANSI ESCAPE CODE 1>m\x1b<ANSI ESCAPE CODE 2>m...`
 
 ## Where do you need this
 For example, Command Prompt
