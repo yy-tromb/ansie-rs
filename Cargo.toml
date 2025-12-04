@@ -6,7 +6,6 @@ edition = "2024"
 authors = ["yy-tromb"]
 repository = "https://github.com/yy-tromb/ansie-rs"
 license = "MIT"
-license-file = "LICENSE"
 readme = "README.md"
 
 [dependencies]
